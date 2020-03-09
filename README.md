@@ -46,3 +46,4 @@ The inspection results can have any of the following values -
  
 ## Evaluation
 The leaderboard is evaluated using Multi Class Log loss (Cross-entropy loss) for the participant’s submission.
+![image](https://user-images.githubusercontent.com/37707687/76176217-cc325380-61d5-11ea-9375-8ca1165f0567.png)
